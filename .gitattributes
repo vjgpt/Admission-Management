@@ -1,2 +1,4 @@
 src/main/resources/static/* linguist-vendored
+src/main/resources/webapp/* linguist-vendored
 target/classes/static/* linguist-vendored
+project-docs/* linguist-documentation
